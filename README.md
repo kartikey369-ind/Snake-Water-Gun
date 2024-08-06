@@ -1,7 +1,10 @@
 # Snake Water Gun Game Using C LANGUAGE:-
 Snake Water Gun is one of the famous two-player game played by many people. It is a hand game in which the player randomly chooses any of the three forms i.e. snake, water, and gun. Here, we are going to implement this game using C LANG. 
 
-This C project is to build a game for a single player that plays with the computer
+This C project is to build a game for a single player that plays with the computer.
+
+
+![c](https://github.com/user-attachments/assets/3b64d6d7-eaa7-4d99-ab60-23fc0605fa14)
 
 ## Following are the rules of the game:
 **Snake vs. Water:** Snake drinks the water hence wins.
